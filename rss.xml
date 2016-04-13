@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[seyself]]></title>
         <description><![CDATA[seyself]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/first-grid-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 12:11:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 12:19:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/first-grid-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[test]]></title>
             <description><![CDATA[<article><h1>test</h1><p>FlashDevelop のプラグインの作り方をメモ。其の二。</p></article>]]></description>
-            <link>undefinedtest/index.html</link>
+            <link>https://thegrid.ai/first-grid-test/test/index.html</link>
             <guid isPermaLink="false">cd6bb3a8-6591-418d-a50b-795ac0d6ed30</guid>
-            <pubDate>Wed, 13 Apr 2016 12:11:32 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2016 12:19:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
